@@ -1,0 +1,6 @@
+{
+    "name": "Re-formatter",
+    "description": "An extension that can reformat your webpages.",
+    "version": "1.0.0",
+    "manifest_version": 2
+}
